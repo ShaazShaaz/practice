@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("work started");
         System.out.println("2. created repository");
         System.out.println("hi hi hi");
+        System.out.println("just to test added commit");
     }
 }
